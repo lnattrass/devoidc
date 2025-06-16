@@ -1,0 +1,4 @@
+{
+  "issuer": "https://raw.githubusercontent.com/lnattrass/devoidc/refs/heads/main",
+  "jwks_uri": "https://raw.githubusercontent.com/lnattrass/devoidc/refs/heads/main/.well-known/jwks.json"
+}
